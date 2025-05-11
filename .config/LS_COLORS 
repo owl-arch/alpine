@@ -1,0 +1,21 @@
+🎨 Tabela de Códigos de Cores ANSI (dircolors / LS_COLORS)
+Código	Cor de Texto	Código	Estilo
+0	Reset (padrão)	1	Negrito
+4	Sublinhado	5	Piscando
+7	Invertido		
+30	Preto	40	Fundo Preto
+31	Vermelho	41	Fundo Vermelho
+32	Verde	42	Fundo Verde
+33	Amarelo	43	Fundo Amarelo
+34	Azul	44	Fundo Azul
+35	Magenta (Roxo)	45	Fundo Magenta
+36	Ciano (Azul claro)	46	Fundo Ciano
+37	Branco (Cinza claro)	47	Fundo Branco
+90	Cinza escuro	100	Fundo Cinza escuro
+91	Vermelho claro	101	Fundo Vermelho claro
+92	Verde claro	102	Fundo Verde claro
+93	Amarelo claro	103	Fundo Amarelo claro
+94	Azul claro	104	Fundo Azul claro
+95	Magenta claro	105	Fundo Magenta claro
+96	Ciano claro	106	Fundo Ciano claro
+97	Branco brilhante	107	Fundo Branco claro
